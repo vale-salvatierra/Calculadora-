@@ -71,4 +71,5 @@ const calculadora = (valor) => {
         op = ''
         numero = ''
     }
+    input.scrollLeft = input.scrollWidth;
 }
